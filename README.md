@@ -1,3 +1,7 @@
+
+### This code is associated with the paper from Rahman et al., "Association mapping from sequencing reads using k-mers". eLife, 2018. http://dx.doi.org/10.7554/eLife.32920
+
+
 # HAWK
 Hitting associations with k-mers
 
